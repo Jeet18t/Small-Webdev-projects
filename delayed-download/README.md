@@ -33,7 +33,3 @@ Here's an example of how to use the tool:
 ## Contribution
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or create a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
