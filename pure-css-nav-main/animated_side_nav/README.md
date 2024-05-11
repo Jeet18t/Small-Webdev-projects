@@ -11,7 +11,7 @@ This is a simple project demonstrating how to create a basic animated navbar usi
 ## Installation
 
 1. Clone the repository:
-  -git clone ```https://github.com/jeet18t/simple-animated-navbar.git```
+  -```git clone https://github.com/jeet18t/simple-animated-navbar.git```
 
 2. Open `index.html` in your preferred web browser.
 
